@@ -1,0 +1,21 @@
+name: 2dshapley
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - multiprocessing
+  - scikit-learn
+  - seaborn
+  - jupyterlab
+  - conda-build
+  - pickle
+  - ipywidgets
+  - pip:
+    - celluloid
+    - git+https://github.com/rossant/ipycache
+    
+    
+    

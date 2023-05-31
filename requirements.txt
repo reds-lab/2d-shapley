@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+scipy
+numpy
+scipy
+matplotlib
+multiprocessing
+pickle
+
+seaborn
+celluloid
+git+https://github.com/rossant/ipycache
